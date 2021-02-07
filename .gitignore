@@ -1,4 +1,6 @@
 ﻿.idea
-*.user
-[Bb]in
-[Oo]bj
+**/*.user
+**/*.dll
+**/*.zip
+**/[Bb]in
+**/[Oo]bj
