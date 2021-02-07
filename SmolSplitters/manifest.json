@@ -1,0 +1,9 @@
+{
+  "name": "SmolSplitters",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/markusmo3/",
+  "description": "Makes all invisible colliders of the splitter smol.",
+  "dependencies": [
+    "xiaoye97-BepInEx-5.4.5"
+  ]
+}
